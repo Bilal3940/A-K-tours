@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/A-k%20tours/static/css/main.80a0b77e.css",
+    "main.js": "/A-k%20tours/static/js/main.fed6295b.js",
+    "index.html": "/A-k%20tours/index.html",
+    "main.80a0b77e.css.map": "/A-k%20tours/static/css/main.80a0b77e.css.map",
+    "main.fed6295b.js.map": "/A-k%20tours/static/js/main.fed6295b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80a0b77e.css",
+    "static/js/main.fed6295b.js"
+  ]
+}
